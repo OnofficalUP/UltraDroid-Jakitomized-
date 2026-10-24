@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/version-1-green?style=for-the-badge)
+
 > [!IMPORTANT]
 > This is important
 > This is Jakitomized Vulkan Not OpenGL
